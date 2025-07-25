@@ -1046,7 +1046,7 @@ System.out.println();
 
 
 
-
+/*
 for(int i=1;i<=5;i++){
 
 
@@ -1061,6 +1061,7 @@ System.out.print(j);
 System.out.println();
 
 }
+*/
 
 
 
@@ -1082,14 +1083,61 @@ System.out.println();
 
 
 
-/*  */
+/* 
+
+
+11
+12  7   
+13  8   4
+14  9   5  2
+15  10  6  3   1
 
 
 
 
+ */
 
 
-/*  */
+
+
+ int n=5; int cnt=n*(n+1)/2;
+		for(int i=n;i>=1;i--){
+            int c=cnt;
+			for(int j=n;j>=i;j--){
+				System.out.print(c+"\t");
+				c=c-(j-1);
+			}
+			System.out.println();
+			cnt--;
+		}
+
+
+
+/* 
+
+
+
+
+int num =11;
+int n=5;
+
+for(int i=1;i<=n;i++){
+
+int temp=num;
+
+for(int j=1;j<=i;j++){
+
+System.out.print(temp+"\t");
+
+temp=temp-(n-j);
+
+}
+
+num++;
+
+System.out.println();
+
+} */
 
 
 
