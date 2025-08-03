@@ -1100,7 +1100,10 @@ System.out.println();
 
 
 
- int n=5; int cnt=n*(n+1)/2;
+ int n=5; 
+int cnt=n*(n+1)/2;
+
+
 		for(int i=n;i>=1;i--){
             int c=cnt;
 			for(int j=n;j>=i;j--){
