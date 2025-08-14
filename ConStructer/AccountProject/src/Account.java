@@ -24,7 +24,7 @@ void setBalance(double Balance){ balance=Balance;}
 
 void credit(int amount){
 
-
+balance=balace+amount;
 System.out.println(" Balance After Credit :" +(balance+amount));
 
 }
