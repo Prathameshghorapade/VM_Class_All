@@ -8,10 +8,11 @@ int last =A[A.length-1];
 
 
 
-for(int i=A.length-1;i>0;i--)
+for(int i=A.length-1;i>0;i--){
 
 A[A.length-1]=A[i-1];
 
+}
 
 A[0]=last;
 
