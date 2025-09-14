@@ -17,6 +17,8 @@ static void takeInput(int A[]){
 	}
 }
 
+  
+
  static void findMaxAndMinElement(int A[]){
  	int max=A[0];
  	int min=A[0];
