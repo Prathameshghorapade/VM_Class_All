@@ -15,8 +15,6 @@ static void replaceVouwelsWithReverseVowelCount(String input){
 
 	   int totalVowels=0;
 
-	   
-  
        for (int i=0;i<input.length() ;i++ ) {
        	
        	char ch = Character.toLowerCase(input.charAt(i));
@@ -29,8 +27,8 @@ static void replaceVouwelsWithReverseVowelCount(String input){
        }
 
            String result="";
-
           int  vowelCount =totalVowels;
+
        for (int i=0;i<input.length() ;i++ ) {
        	
        	char ch = Character.toLowerCase(input.charAt(i));
