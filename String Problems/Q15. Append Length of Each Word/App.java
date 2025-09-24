@@ -35,13 +35,8 @@ class App{
     	}
 
     	System.out.println("output :"+sb.toString());
-
-
-
-
     } 
   
-
 
 
 	public static void main(String[] args) {
