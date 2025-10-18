@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/Q1. Shift First Character to Last" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Q10. Count Words in a Sentence" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Q11. Find the Longest Word" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Q12. Sort Words Lexicographically" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Q13. Reverse Each Word in Sentence" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Q14. Append Word Position to Each Word" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Q15. Append Length of Each Word" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Q16. Shift First Letter of Each Word to the End" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Q17. Swap First and Last Letter of Each Word" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Q2. Shift Last Character to First" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Q3. Swap First and Last Characters" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Q4. Count Vowels in a String" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Q5. Replace Vowels with Vowel Count" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Q6. Replace Vowels in Reverse with Vowel Count" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Q7. Move Vowels to End (Sorted), Keep Consonants First" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Q8. Sort All Characters Alphabetically" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Q9. Count Charaters in a Sentence" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

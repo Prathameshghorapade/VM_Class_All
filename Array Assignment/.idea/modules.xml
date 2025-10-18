@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Array Assignment.iml" filepath="$PROJECT_DIR$/Array Assignment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/find element that appers once/find element that appers once.iml" filepath="$PROJECT_DIR$/find element that appers once/find element that appers once.iml" />
+      <module fileurl="file://$PROJECT_DIR$/find first duplicate element/find first duplicate element.iml" filepath="$PROJECT_DIR$/find first duplicate element/find first duplicate element.iml" />
+      <module fileurl="file://$PROJECT_DIR$/find kth largest/find kth largest.iml" filepath="$PROJECT_DIR$/find kth largest/find kth largest.iml" />
+    </modules>
+  </component>
+</project>

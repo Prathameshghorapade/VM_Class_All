@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/AreaOfReactangle" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Centimeter Conversions" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/CircleOperations" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/FindAvgTotal" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/PerForm_All_Arithmatic_Operations" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Perimeter_of_ a_ Rectangle" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SimpleIntrest" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SumOFTWoNumbers" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/TriangleOp" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

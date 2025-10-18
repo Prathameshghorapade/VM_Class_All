@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Abstraction Example/Abstraction Example.iml" filepath="$PROJECT_DIR$/Abstraction Example/Abstraction Example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/this Keyword/Account Project/Account Project.iml" filepath="$PROJECT_DIR$/this Keyword/Account Project/Account Project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Composition Examples/Account Project/Account Project2.iml" filepath="$PROJECT_DIR$/Composition Examples/Account Project/Account Project2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ConStructer/AccountProject/AccountProject.iml" filepath="$PROJECT_DIR$/ConStructer/AccountProject/AccountProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Array Assignment/Array Assignment.iml" filepath="$PROJECT_DIR$/Array Assignment/Array Assignment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AssignMent No.1/AssignMent No.1.iml" filepath="$PROJECT_DIR$/AssignMent No.1/AssignMent No.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assignment 2/Assignment 2.iml" filepath="$PROJECT_DIR$/Assignment 2/Assignment 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assignment 3/Assignment 3.iml" filepath="$PROJECT_DIR$/Assignment 3/Assignment 3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ConStructer/AuthorProject/AuthorProject.iml" filepath="$PROJECT_DIR$/ConStructer/AuthorProject/AuthorProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exception Handling/Bank Project/Bank Project.iml" filepath="$PROJECT_DIR$/Exception Handling/Bank Project/Bank Project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Composition Examples/Book Project/Book Project.iml" filepath="$PROJECT_DIR$/Composition Examples/Book Project/Book Project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ConStructer/CircleProject/CircleProject.iml" filepath="$PROJECT_DIR$/ConStructer/CircleProject/CircleProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CollegeProject/CollegeProject.iml" filepath="$PROJECT_DIR$/CollegeProject/CollegeProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/this Keyword/Date Project/Date Project.iml" filepath="$PROJECT_DIR$/this Keyword/Date Project/Date Project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/this Keyword/Employ Project/Employ Project.iml" filepath="$PROJECT_DIR$/this Keyword/Employ Project/Employ Project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exception Handling/Exception Handling.iml" filepath="$PROJECT_DIR$/Exception Handling/Exception Handling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InterFace Examples/InterFace Examples.iml" filepath="$PROJECT_DIR$/InterFace Examples/InterFace Examples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Composition Examples/Invoice Project/Invoice Project.iml" filepath="$PROJECT_DIR$/Composition Examples/Invoice Project/Invoice Project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/this Keyword/InvoiceItem Project/InvoiceItem Project.iml" filepath="$PROJECT_DIR$/this Keyword/InvoiceItem Project/InvoiceItem Project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Diwali Assigments/LinkedListExamples.iml" filepath="$PROJECT_DIR$/Diwali Assigments/LinkedListExamples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Logic Building/Logic Building.iml" filepath="$PROJECT_DIR$/Logic Building/Logic Building.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Multithreding/Multithreding.iml" filepath="$PROJECT_DIR$/Multithreding/Multithreding.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ConStructer/PersonProject/PersonProject.iml" filepath="$PROJECT_DIR$/ConStructer/PersonProject/PersonProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ClassAndObjects/ProjcetPerson/ProjcetPerson.iml" filepath="$PROJECT_DIR$/ClassAndObjects/ProjcetPerson/ProjcetPerson.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ClassAndObjects/ProjectAccount/ProjectAccount.iml" filepath="$PROJECT_DIR$/ClassAndObjects/ProjectAccount/ProjectAccount.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ClassAndObjects/ProjectBook/ProjectBook.iml" filepath="$PROJECT_DIR$/ClassAndObjects/ProjectBook/ProjectBook.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ClassAndObjects/ProjectCircle/ProjectCircle.iml" filepath="$PROJECT_DIR$/ClassAndObjects/ProjectCircle/ProjectCircle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ClassAndObjects/ProjectCompany/ProjectCompany.iml" filepath="$PROJECT_DIR$/ClassAndObjects/ProjectCompany/ProjectCompany.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ClassAndObjects/ProjectCountry/ProjectCountry.iml" filepath="$PROJECT_DIR$/ClassAndObjects/ProjectCountry/ProjectCountry.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ClassAndObjects/ProjectLaptop/ProjectLaptop.iml" filepath="$PROJECT_DIR$/ClassAndObjects/ProjectLaptop/ProjectLaptop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ClassAndObjects/ProjectMobile/ProjectMobile.iml" filepath="$PROJECT_DIR$/ClassAndObjects/ProjectMobile/ProjectMobile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ClassAndObjects/ProjectMovie/ProjectMovie.iml" filepath="$PROJECT_DIR$/ClassAndObjects/ProjectMovie/ProjectMovie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ClassAndObjects/ProjectRoom/ProjectRoom.iml" filepath="$PROJECT_DIR$/ClassAndObjects/ProjectRoom/ProjectRoom.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ClassAndObjects/ProjectStudent/ProjectStudent.iml" filepath="$PROJECT_DIR$/ClassAndObjects/ProjectStudent/ProjectStudent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ClassAndObjects/ProjectWatch/ProjectWatch.iml" filepath="$PROJECT_DIR$/ClassAndObjects/ProjectWatch/ProjectWatch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/this Keyword/Reactangle Project/Reactangle Project.iml" filepath="$PROJECT_DIR$/this Keyword/Reactangle Project/Reactangle Project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Logic Building/Read Matrix And Find Square of Each Element/Read Matrix And Find Square of Each Element.iml" filepath="$PROJECT_DIR$/Logic Building/Read Matrix And Find Square of Each Element/Read Matrix And Find Square of Each Element.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Logic Building/Read Matrix and Printing Only Digonal Elements/Read Matrix and Printing Only Digonal Elements.iml" filepath="$PROJECT_DIR$/Logic Building/Read Matrix and Printing Only Digonal Elements/Read Matrix and Printing Only Digonal Elements.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Logic Building/Revere Array/Revere Array.iml" filepath="$PROJECT_DIR$/Logic Building/Revere Array/Revere Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Static/Static.iml" filepath="$PROJECT_DIR$/Static/Static.iml" />
+      <module fileurl="file://$PROJECT_DIR$/String Problems/String Problems.iml" filepath="$PROJECT_DIR$/String Problems/String Problems.iml" />
+      <module fileurl="file://$PROJECT_DIR$/this Keyword/Time Project/Time Project.iml" filepath="$PROJECT_DIR$/this Keyword/Time Project/Time Project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Vibrantminds.iml" filepath="$PROJECT_DIR$/Vibrantminds.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ConStructer/Watch/Watch.iml" filepath="$PROJECT_DIR$/ConStructer/Watch/Watch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Array Assignment/find element that appers once/find element that appers once.iml" filepath="$PROJECT_DIR$/Array Assignment/find element that appers once/find element that appers once.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Array Assignment/find first duplicate element/find first duplicate element.iml" filepath="$PROJECT_DIR$/Array Assignment/find first duplicate element/find first duplicate element.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Array Assignment/find kth largest/find kth largest.iml" filepath="$PROJECT_DIR$/Array Assignment/find kth largest/find kth largest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Array Assignment/find second largest/find second largest.iml" filepath="$PROJECT_DIR$/Array Assignment/find second largest/find second largest.iml" />
+    </modules>
+  </component>
+</project>

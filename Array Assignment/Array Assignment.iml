@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/Average of Array Elements" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Average of Odd and Even Elements" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Copy All elements from one Array to Another" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Count Frequency of Each Element in Array" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Count Total Numbers Of Negative Elemnets" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Elements Greater than Average" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Find Pair with Given Sum" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Find Triplet with Given Sum" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Forward and Backward Display" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Insert New Element in Array at Any Position" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Maximum Element" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Merge Two Arrys into One Single Array" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Print All Unique Elements" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Print All negative elements in Array" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Replace Each Element with First Digit" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Replace Each Element with First and Last Digit" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Reverse Array (Without Third Variable)" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Second Maximum Element" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Shift First Element to Last" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Shift First to Last (Without Third Variable)" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Shift Last Element to First" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Shift Last to First (Without Third Variable)" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Sort An Arry" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Sum of Array Elements" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Sum of Odd Elements" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Swap First and Last Element" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Swap First and Last Element (Without Third Variable)" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/count total even and odd elemnts" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/find Sum of All Array Elements" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/find max and min elements" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/find missing element in array" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/find the Duplicate Elements in Array" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
